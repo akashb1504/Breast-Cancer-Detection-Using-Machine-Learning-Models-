@@ -86,7 +86,7 @@ The **Random Forest model** was deployed using **Streamlit**. Users can input fe
 ---
 ### Streamlit App Preview
 
-![Breast Cancer Prediction App](Breast Cancer Prediction App.png)
+![Breast Cancer Prediction App](Dashboard.png)
 
 ---
 
