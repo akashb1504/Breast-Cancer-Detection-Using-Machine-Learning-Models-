@@ -84,6 +84,11 @@ The **Random Forest model** was deployed using **Streamlit**. Users can input fe
 - Display prediction: ✅ Benign / ⚠️ Malignant.
 
 ---
+### Streamlit App Preview
+
+![Breast Cancer Prediction App](Breast Cancer Prediction App.png)
+
+---
 
 ## ⚙️ Tech Stack
 
