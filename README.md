@@ -7,7 +7,7 @@ The goal is to demonstrate how machine learning can assist in **early cancer det
 ---
 
 ## 🛠️ Technologies Used
-- **Python **
+- **Python**
 - **NumPy, Pandas** 
 - **Matplotlib, Seaborn** 
 - **Scikit-learn** 
