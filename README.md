@@ -71,7 +71,7 @@ The **Random Forest model** was deployed using **Streamlit**. Users can input fe
 - Concavity Mean
 - Concave Points Mean
 
-## Streamlit App Workflow
+## 🛠️ Streamlit App Workflow
 
 - Input 8 key features through number input fields.
 
@@ -85,7 +85,7 @@ The **Random Forest model** was deployed using **Streamlit**. Users can input fe
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 - Python 
 - pandas
