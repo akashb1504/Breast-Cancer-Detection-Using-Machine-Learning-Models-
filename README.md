@@ -39,7 +39,7 @@ This project focuses on predicting whether a breast mass is **Malignant (M)** or
    - Selected **top 10 features** based on importance.
 
 4. **Model Training & Evaluation**
-   - Trained the **Random Forest** models using the top 10 columns selected by the Random foreset feature importance.
+   - Trained the **Random Forest** models using the top 10 columns selected by the Random forest feature importance.
    - Trained the following models using all the features.
      - **Logistic Regression**
      - **Support Vector Machine (SVM)**
